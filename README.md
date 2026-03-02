@@ -26,9 +26,6 @@ Developed by **RussianHarvey & Tobakk**, modified for maximum speed via direct H
 2. Enter the **Bot Token**, then the **Server ID**.
 3. The main menu will appear (see below).
 4. Choose the operation number you want to execute.
-
-![Vanadium Menu](https://via.placeholder.com/600x200?text=Vanadium+Menu)
-
 ---
 
 ## 📋 Options Overview
